@@ -1,4 +1,4 @@
-# Dopune / Liste
+# events-pdf-service-react — Dopune / Liste
 
 Samostalna React + TypeScript aplikacija za preuzimanje sportskih lista u PDF formatu.
 
